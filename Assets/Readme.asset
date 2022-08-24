@@ -16,35 +16,35 @@ MonoBehaviour:
   title: Universal Render Pipeline Template
   sections:
   - heading: Universal Render Pipeline
-    text: 'The Universal Project Template configures Project settings for Projects where performance, wide platform support, and ease of customizing graphics are the primary considerations.'
+    text: '범용 프로젝트 템플릿은 성능, 광범위한 플랫폼 지원 및 그래픽 사용자 지정 용이성이 주요 고려 사항인 프로젝트에 대한 프로젝트 설정을 구성합니다.'
     linkText: 
     url: 
   - heading:
-    text: 'This Template uses the Universal Render Pipeline (URP) and Shader Graph.'
+    text: '이 템플릿은 URP(Universal Render Pipeline) 및 셰이더 그래프를 사용합니다.'
     linkText: 
     url: 
   - heading:
-    text: 'URP is prebuilt Scriptable Render Pipeline that is quick and easy to customize, and lets you create optimized graphics across a wide range of platforms. URP also includes an optimized 2D renderer complete with 2D lights and pixel perfect rendering, and an integrated post-processing solution.'
+    text: 'URP는 빠르고 쉽게 사용자 지정할 수 있는 사전 구축된 스크립트 가능 렌더 파이프라인으로, 다양한 플랫폼에서 최적화된 그래픽을 만들 수 있습니다. URP는 또한 2D 조명과 픽셀 퍼펙트 렌더링을 완벽하게 갖춘 최적화된 2D 렌더러와 통합 후 처리 솔루션을 포함합니다.'
     linkText: 
     url: 
   - heading:
-    text: 'Shader Graph is a tool that allows you to create shaders using a visual node editor instead of writing code.'
+    text: '셰이더 그래프는 코드를 작성하는 대신 시각적 노드 편집기를 사용하여 셰이더를 만들 수 있는 도구입니다.'
     linkText: 
     url: 
   - heading: 
-    text: 'This template contains a sample Scene that contains examples of how to configure lighting settings, Materials, Shaders, and post-processing effects in URP, several preconfigured Universal Render Pipeline Assets that let you quickly swap between graphics quality levels, and Presets that have been optimized for use with URP.'
+    text: '이 템플릿에는 URP에서 조명 설정, 재료, 셰이더 및 후 처리 효과를 구성하는 방법, 그래픽 품질 수준 간에 신속하게 전환할 수 있는 몇 가지 사전 구성된 범용 렌더 파이프라인 자산, URP와 함께 사용하도록 최적화된 사전 설정이 포함된 샘플 장면이 포함되어 있습니다.'
     linkText:
     url:
   - heading: 
-    text: 'This template contains a sample Scene that contains examples of how to configure lighting settings, Materials, Shaders, and post-processing effects in URP, several preconfigured Universal Render Pipeline Assets that let you quickly swap between graphics quality levels, and Presets that have been optimized for use with URP.'
+    text: '이 템플릿에는 URP에서 조명 설정, 재료, 셰이더 및 후 처리 효과를 구성하는 방법, 그래픽 품질 수준 간에 신속하게 전환할 수 있는 몇 가지 사전 구성된 범용 렌더 파이프라인 자산, URP와 함께 사용하도록 최적화된 사전 설정이 포함된 샘플 장면이 포함되어 있습니다.'
     linkText:
     url:
   - heading: 
-    text: 'To read more about URP and its built-in features, see the '
+    text: 'URP 및 URP의 기본 기능에 대한 자세한 내용은 '
     linkText: URP documentation.
     url: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@latest/index.html
   - heading: 
-    text: 'For more information about Shader Graph, see the '
+    text: '셰이더 그래프에 대한 자세한 내용은 '
     linkText: Shader Graph documentation
     url: https://docs.unity3d.com/Packages/com.unity.shadergraph@latest
   loadedLayout: 1
